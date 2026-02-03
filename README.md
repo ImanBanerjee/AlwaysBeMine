@@ -1,53 +1,83 @@
 # 🥰 Always Be Mine 🥰
 
-## Welcome to the **Valentine Proposal Website Template**! 💖
+## Welcome to the Valentine Proposal Website Template 💖
 
-**AlwaysBeMine** is a delightful and romantic web template designed to ask someone special, "Will you be my Valentine?" With its cute design, charming animations, and heartfelt message, this website template offers a unique and memorable way to express your feelings. Whether you're celebrating Valentine's Day or just want to spread love, this project is sure to make the moment unforgettable.
+AlwaysBeMine is a romantic, playful web template designed to ask someone special, “Will you be my Valentine?” It blends cute visuals, animations, music, and interactive elements into one memorable little experience. Perfect for Valentine’s Day — or any day you feel brave enough to say what your heart already knows.
 
-This template combines creativity and coding to create an experience that will leave a lasting impression. It's perfect for anyone looking to make their proposal or message stand out in a special & unique way. ❤️
+Built to turn a simple question into a moment.
 
 ## ✨ Features
 
-- **Playful Animations**: Enjoy a fun, engaging user experience with cute and playful animations.
-- **Interactive Elements**: Add exciting touches such as animations, background music, or surprise pop-ups to personalize your message.
-- **Images**: Lovely images and heartwarming messages.
-- **Beautiful Tag Lines**: Attractive and Loving Tag Lines.
-- **Sharing Options**: Share your virtual card easily via:
-  - **Social Media**: Share directly on your favorite platforms.
+- Playful animations and cute visual effects  
+- Interactive Yes / No behavior  
+- Floating GIF reactions  
+- Background music triggers  
+- Sweet popup messages  
+- Shareable as a live website link  
+- Easy to customize text, media, and styling  
 
 ## 🚀 Getting Started
 
-To get started with this project, follow these steps:
+To run locally:
 
-1. **Star the [Main Repository](https://github.com/UjjwalSaini07/AlwaysBeMine)**
-2. **Fork The [Repository](https://github.com/UjjwalSaini07/AlwaysBeMine) (If u Want to Contribute Then use this Step)**
-3. **Clone the repository**
-4. **Install the Dependancies `npm/pnpm install`**
-5. **Start the development server with `npm/pnpm run dev`**
+1. Clone the repository
 
-## 📷 ScreenShots
+   ```bash
+   git clone https://github.com/ImanBanerjee/AlwaysBeMine.git
+   ```
 
-Here’s a sneak peek of what you can expect from the template:
+2. Go into the project folder
+
+   ```bash
+   cd AlwaysBeMine
+   ```
+
+3. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+4. Start the dev server
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the shown localhost link in your browser
+
+## 📷 Screenshots
+
 ![image](https://github.com/user-attachments/assets/25282fce-12f0-4c0a-95ce-cda95a305e28)
 ![image](https://github.com/user-attachments/assets/40beacf0-b509-47cd-be7e-a97f8e98156c)
 ![image](https://github.com/user-attachments/assets/ef5827e6-8c1f-4351-80ed-2f2d940416d4)
 
-## ❤️ Why You’ll Love It
-- **Thoughtful and Personal**: Perfect for creating a heartfelt Valentine’s Day message or just a spontaneous declaration of love.
-- **User-Friendly**: Simple to use, no coding skills required.
-- **Creative**: Bring your ideas to life with interactive web elements.
+## ❤️ Why This Is Fun
 
-## 💕 Made with Love
-This project made with love by [Ujjwal](https://github.com/UjjwalSaini07). </br>Feel free to use it to ask your own special someone to be your Valentine! & express your feeling in unique and memorable way..
+- Personal and expressive  
+- No heavy setup  
+- Easy edits for names, messages, GIFs, and songs  
+- Works great as a surprise link  
 
-## 📄 License
-License Credential [Check](https://github.com/UjjwalSaini07/AlwaysBeMine/blob/main/LICENSE). </br>You can use this project the way you want. Feel free to credit me if you want to!
+## 💕 Maintained by
 
-## 💌 Feedback and Contributions
-Feedback and contributions are always welcome! Feel free to open an [Issue](https://github.com/UjjwalSaini07/AlwaysBeMine/issues/new).
+This customized version is maintained by  
+**Iman Banerjee**  
+https://github.com/ImanBanerjee
+
+If you use it to make someone smile — mission accomplished.
+
+
+
+Respect the upstream license if you redistribute.
+
+## 💌 Contributions
+
+Pull requests and improvements are welcome.  
+Open an issue or submit a PR.
+
+---
 
 <div align="center">
-    <a href="#top">
-        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
-    </a>
+Back to top ↑
 </div>
